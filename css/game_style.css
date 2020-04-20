@@ -1,0 +1,7 @@
+#myCanvas{
+    border: 5px red solid;
+    /* width: 700px;
+    height: 400px; */
+
+    background-image: url(/Assets/back.jpeg);
+}
